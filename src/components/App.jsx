@@ -9,7 +9,7 @@ const App = (props) => {
     return ( 
         <div className="app">
             <Display keyValue={keyValue} setValue={setValue}/>
-            <Keypad keyValue={keyValue} setValue={setValue} id={id}/>
+            <Keypad keyValue={keyValue} setValue={setValue}/>
         </div>
      );
 }
