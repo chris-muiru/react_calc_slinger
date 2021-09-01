@@ -1,0 +1,8 @@
+.app{
+    box-shadow: 0px 0px 10px rgb(112, 105, 105);
+    width: 400px;
+    margin: 0 auto;
+    padding: 7px;
+    border-radius: 35px;
+    background-color: white;
+}
