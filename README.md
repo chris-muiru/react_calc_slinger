@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
@@ -68,3 +69,10 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+=======
+# react_calc_slinger
+
+A simple react calculator 
+
+![calc](https://user-images.githubusercontent.com/71145865/167411614-a8b20c27-f3c1-4b1d-a003-fee163ad4622.png)
+>>>>>>> 2f2aeba4922c6fcbc1d19e3e94399738d20efc2b
