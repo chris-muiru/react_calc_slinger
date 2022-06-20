@@ -1,7 +1,11 @@
-const MiniDisplay = () => {
+import '../css/minidisplay.css';
+
+const MiniDisplay = ({keyValue}) => {
+    
     return ( 
-        <div>
-            
+        <div className="minidisplay">
+            {keyValue}
+
         </div>
      );
 }
