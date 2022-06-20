@@ -1,11 +1,11 @@
 import '../css/display.css';
-const Display = (props) => {
-    console.log(props.keyValue);
+import MiniDisplay from './MiniDisplay';
+const Display = ({keyValue,setValue}) => {
     return (  
         <div className="display">
-            <p className="previous-calc">1000x1000</p>
-
-            <p className="result-div">{props.keyValue}</p>
+            <MiniDisplay className="previous-calc" keyValue={keyValue}></MiniDisplay>
+            <p className="result-div">{keyValue}</p>
+            
         </div>
     );
 }
