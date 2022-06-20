@@ -1,0 +1,8 @@
+.minidisplay{
+
+    position: relative;
+    text-align:right;
+    top: 300px;
+    font-size: 25px;
+    opacity: 0.5;
+}
